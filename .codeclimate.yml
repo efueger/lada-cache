@@ -23,4 +23,6 @@ ratings:
   - "**.rb"
 exclude_paths:
 - config/
+- database/
+- src/Spiritix/LadaCache/Database/Connection/**/*
 - tests/
